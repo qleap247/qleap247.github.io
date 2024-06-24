@@ -46,14 +46,14 @@ a:focus {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 45px;
     font-weight: 300;
     letter-spacing: -1px;
     margin-bottom: 1.5rem;
 }
 
 h2 {
-    font-size: 45px;
+    font-size: 35px;
     font-weight: 300;
     color: #633991;
     letter-spacing: -1px;
@@ -84,12 +84,12 @@ p {
 }
 
 p.lead {
-    color: #ff007e;
+    color: #2e8805;
     margin-bottom: 2rem;
 }
 
 .text-primary {
-    color: #ff007e !important;
+    color: #2e8805 !important;
 }
 
 .light-font {
@@ -175,6 +175,22 @@ p.lead {
     }
 }
 
+
+.section-titles {
+    text-align: center;
+}
+.section-titles ul {
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+    padding-left: 0;
+    font-size: 23px;
+    font-weight: 300;
+}
+.section-titles li {
+    margin: 0;
+    padding: 0;
+}
 
 /* NAVBAR
 ----------------------*/
