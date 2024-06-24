@@ -186,6 +186,7 @@ p.lead {
     padding-left: 0;
     font-size: 23px;
     font-weight: 300;
+    list-style: none;
 }
 .section-titles li {
     margin: 0;
