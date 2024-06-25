@@ -4,8 +4,8 @@
 
 Style   : MobApp CSS
 Version : 1.0
-Author  : Surjith S M
-URI     : https://surjithctly.in/
+Author  : RS
+
 
 Copyright © All rights Reserved 
 
@@ -644,13 +644,13 @@ background-repeat: no-repeat;
     line-height: 50px;
     margin: 0 0.3rem;
     border-radius: 5px;
-    color: #f4c9e2;
+    color: #233085;
     transition: all 0.3s ease;
 }
 
 .social-icons a:hover {
     text-decoration: none;
-    color: #e38cb7;
+    color: #762bd1;
 }
 
 @media (max-width:991px) {
